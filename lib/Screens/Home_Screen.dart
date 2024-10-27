@@ -10,7 +10,7 @@ class HomeScreen extends StatelessWidget {
       backgroundColor: Colors.black38,
       body: Column(
         children: [
-          
+
         ],
       ),
     );
